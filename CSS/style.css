@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+        -webkit-user-select: none;
+       -moz-user-select: none;
+       -o-user-select: none;
+       -ms-user-select: none;
+    -webkit-user-drag: none;
+       -moz-user-drag: none;
+       -o-user-drag: none;
+       -ms-user-drag: none;
+      
+
+    }
+body::-webkit-scrollbar{
+   width:10px;
+   background:#00000000;
+}
+body::-webkit-scrollbar-thumb{
+   background:#666;
+   border-radius:10px;
+   width:100%;
+   
+}
+
+
+ 
