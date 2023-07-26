@@ -12,4 +12,8 @@ jogos online (jogo da velha e jogo da forca) - envia-se um convite para um outro
 e muito mais.
 
 #instrucoes
-#crie uma base de dados
+#crie uma base de dados de nome Howdy ou qualquer outro nome mas tera que alterar no arquivo de configuracao da conexao da base de dados que esta localizado dentro da pasta classes/conexao.php
+#em seguida importe a base de dados no seu phpmyadmin que esta na pasta sql do mesmo directorio,
+#lembre-se de ter o xampp/wampp ou  qualquer outro servidor instalado, e colocar o projecto dentro da pasta htdocs ou www
+#deves tambem importar as tabelas de paises e estados para conseguir criar uma conta, caso nao existam essas tabelas, nao consiguira passar da validacao do formulario durante o cadastro
+##
