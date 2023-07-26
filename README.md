@@ -20,3 +20,6 @@ e muito mais.<br/><br/>
 
 <br/><br/><br/>
 O sistema nao eh perfeito, tem muitas falhas, a estrutura de arquivos nao eh a das melhores, mas mesmo assim ainda da para aprender o maximo possivel de como funciona o PDO em php  e muito mais
+
+
+<h2>Desculpa pela desorganizacao no codigo, esse sistema foi feito a 6 anos atras, eu nem conhecia git e ainda estava aprendendo SQL :)</h2>h2>
